@@ -45,3 +45,12 @@ theme:
 
 plugins:
   - search
+
+markdown_extensions:
+  - toc:
+      permalink: true
+
+copyright: Copyright &copy; 2023 - 2024 All the Tonys
+
+extra:
+  generator: false
