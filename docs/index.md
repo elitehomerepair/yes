@@ -1,22 +1,18 @@
-# Welcome to MkDocs
+# Welcome to Tony's Gonna Fix It
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Tonys fix things right!
 
-## Commands
+## Stuff We Fix
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
+* `Water Things` - Like plumbing and pipes and such.
+* ![Plumbing](images/plumbing.png)
+* `Walls` - Drywall fixing, AND putting.
+* ![Fix Drywall](images/drywall.png)
+* `Doors n Thangs` - Putting, fixing, repairing doors.
+* ![Doors](images/doors.png)
+* `Bricks` - We only have two. So..
+* ![Bricks](images/bricks.png)
 
 ## Tonys do it right!
 
 Tony know their stuff for real for real!!
-
-![Screen shot](images/image.png)
