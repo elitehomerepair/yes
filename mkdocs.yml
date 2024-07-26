@@ -1,7 +1,10 @@
 site_name: Elite Home Repair
 theme:
   name: material
+  icon:
+    logo: simple/blockchaindotcom
 
+  language: en
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -11,7 +14,7 @@ theme:
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: default
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -22,6 +25,23 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+
+  features:
+#     - navigation.instant  # Needs site_url: field filled in
+#     - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - toc.follow
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - header.autohide
+
 
 plugins:
   - search
