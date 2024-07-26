@@ -1,7 +1,8 @@
 site_name: Elite Home Repair
 theme:
-  palette:
+  name: material
 
+  palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
@@ -21,3 +22,6 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+
+plugins:
+  - search
