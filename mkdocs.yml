@@ -1,8 +1,13 @@
 site_name: Elite Home Repair
+repo_url: https://github.com/elitehomerepair/yes
+repo_name: elitehomerepair/yes
 theme:
   name: material
   icon:
     logo: simple/blockchaindotcom
+    repo: fontawesome/brands/git
+    edit: material/pencil
+    view: material/eye
 
   language: en
   palette:
@@ -41,10 +46,16 @@ theme:
     - search.highlight
     - search.share
     - header.autohide
-
+    - content.action.edit
+    - content.action.view
 
 plugins:
   - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - git-committers:
+      repository: elitehomerepair/yes
+      branch: main
 
 markdown_extensions:
   - toc:
