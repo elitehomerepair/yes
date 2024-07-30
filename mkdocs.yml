@@ -1,4 +1,5 @@
 site_name: Elite Home Repair
+site_url: https://www.nebraskaremodels.com
 repo_url: https://github.com/elitehomerepair/yes
 repo_name: elitehomerepair/yes
 theme:
@@ -32,8 +33,8 @@ theme:
         name: Switch to system preference
 
   features:
-#     - navigation.instant  # Needs site_url: field filled in
-#     - navigation.instant.progress
+    - navigation.instant  # Needs site_url: field filled in
+    - navigation.instant.progress
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
