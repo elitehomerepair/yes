@@ -1,7 +1,8 @@
 site_name: Elite Home Repair
-site_url: https://elitehomerepair.github.io/yes/
+site_url: https://www.nebraskaremodels.com
 repo_url: https://github.com/elitehomerepair/yes
 repo_name: elitehomerepair/yes
+edit_uri: edit/main/docs/
 theme:
   name: material
   icon:
