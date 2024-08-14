@@ -62,6 +62,9 @@ plugins:
 markdown_extensions:
   - toc:
       permalink: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 copyright: Copyright &copy; 2023 - 2024 All the Tonys
 
