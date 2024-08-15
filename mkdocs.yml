@@ -50,9 +50,13 @@ theme:
     - header.autohide
     - content.action.edit
     - content.action.view
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
 
 plugins:
   - search
+  - glightbox
   - git-revision-date-localized:
       enable_creation_date: true
   - git-committers:
@@ -65,6 +69,16 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
 
 copyright: Copyright &copy; 2023 - 2024 All the Tonys
 
