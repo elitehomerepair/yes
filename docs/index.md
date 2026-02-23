@@ -21,13 +21,13 @@ We only hire people named Tony, and they know their stuff real good. We guarante
 
 ??? note "Contact A Tony"
 
-        ``` shell
-        Tony's Gonna Fix It
-        123 TonyFix It Lane
-        Fix City, Fix State
-        12345
-        555-555-5555
-        ```
+    ``` shell
+      Tony's Gonna Fix It
+      123 TonyFix It Lane
+      Fix City, Fix State
+      12345
+      555-555-5555
+    ```
 
         Email: [tony.fixesit@realgood.com]
 
