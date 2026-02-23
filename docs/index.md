@@ -2,7 +2,9 @@
 
 Tonys fix things right!
 
-## Stuff We Fix
+Got a problem? Tony's got you covered. We specialize in fixing all sorts of things, from plumbing to drywall to doors and even bricks. No job is too big or too small for Tony's Gonna Fix It! Got bricks? We only have two, but we'll make them work! Call on A Tony for all your fixing needs. We guarantee you'll be satisfied with our work. Contact us today to schedule your repair!
+
+## Stuff Tonys Fix
 
 * `Water Things` - Like plumbing and pipes and such.
   * ![Plumbing](images/plumbing.png)
@@ -15,7 +17,9 @@ Tonys fix things right!
 
 ## Tonys do it right!
 
-??? note "Contact Us"
+We only hire people named Tony, and they know their stuff real good. We guarantee that you'll be satisfied with our work, and if you're not.. we don't know yet. Nobody has been unsatisfied yet, but if you are, we'll figure it out.
+
+??? note "Contact A Tony"
 
         ``` shell
         Tony's Gonna Fix It
@@ -27,4 +31,4 @@ Tonys fix things right!
 
         Email: [tony.fixesit@realgood.com]
 
-Tony know their stuff for real for real!!
+Tonys know their stuff real good!!
