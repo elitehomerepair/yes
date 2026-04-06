@@ -26,7 +26,9 @@ We even offer an exclusive Tony only discount! If your name is Tony, We'll hook 
 
 ## Tonys do it right!
 
-We only hire people named Tony, and they know their stuff real good. We guarantee that you'll be satisfied with our work, and if you're not.. we don't know yet. Nobody has been unsatisfied yet, but if you are, we'll figure it out.
+We only hire people named Tony, and they know their stuff real good. We guarantee that you'll be satisfied with our work, and if you're not.. we don't know yet. Nobody has been unsatisfied yet, but if you are, we'll figure it out. 
+
+A new product we offer is cold tile cuts, using a wet tile saw. Are your tiles covered in snow? I'll cut them up for you! Are those pesky tiles too big? Fret not, one of the many Tonys working here will make them smaller. 
 
 ??? note "Contact A Tony"
 
